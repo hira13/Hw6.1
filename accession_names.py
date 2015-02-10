@@ -1,3 +1,6 @@
+#Pg 167 Accession Names Exercise 
+
+
 accs= ["xkn59438", "yhdck2", "eihd39d9", "chdsye847", "hedle3455", "xjhd53e", "45da", "de37dp"]
 
 # Will print if it contains a 5 by searching for it and then printing it 
